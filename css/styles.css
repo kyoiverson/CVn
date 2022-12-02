@@ -2,7 +2,8 @@ div{
 
 }
 body{
-  margin:0;
+  color:#40514A;
+margin:0;
 text-align: center;
 font-family: 'Merriweather', serif;
 }
@@ -104,4 +105,20 @@ hr {
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #11999E;
+  margin: 15px;
+  font-family: 'Montserrat', serif;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  font-size:0.75rem;
+  padding: 20px 0;
+color:#EAF6F6;
 }
